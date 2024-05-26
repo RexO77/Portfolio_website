@@ -15,6 +15,7 @@ const Hero = () => {
 
           <div className='flex justify-center'>
             <div className='max-w-[89vw]'>
+              <h2>Dynamic Web Pages</h2>
 
             </div>
 
