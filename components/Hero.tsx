@@ -16,7 +16,8 @@ const Hero = () => {
           <div className='flex justify-center'>
             <div className='max-w-[89vw]'>
               <h2>Mastering the bridge between Design and Devolopement</h2>
-              <p>Design and Developement are two sides of the same coin. Learn how to design and code a website from scratch with Figma and React.</p>
+              <p>Learn how to build a beautiful website with the latest technologies</p>
+              
             </div>
 
           </div>
