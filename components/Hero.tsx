@@ -16,11 +16,6 @@ const Hero = () => {
           <div className='flex justify-center'>
             <div className='max-w-[89vw]'>
               <h2>Mastering the bridge between Design and Devolopement</h2>
-              <p>Learn how to build a beautiful website with the latest technologies</p>
-              <div className='flex space-x-4'>
-                <button className='btn-primary'>Get Started</button>
-                <button className='btn-secondary'>Learn More</button>
-
             </div>
 
           </div>
