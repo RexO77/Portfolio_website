@@ -53,3 +53,7 @@ export const TextGenerateEffect = ({
   );
 };
 //this is a text commnnt to test the text generate effect
+// Path: components/ui/Spotlight.tsx
+// Compare this snippet from components/Hero.tsx:
+// import React from 'react'
+// import { Spotlight } from './ui/Spotlight'
