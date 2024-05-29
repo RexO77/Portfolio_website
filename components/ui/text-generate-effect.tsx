@@ -52,3 +52,4 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
+//this is a text commnnt to test the text generate effect
