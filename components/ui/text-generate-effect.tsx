@@ -56,3 +56,8 @@ export const TextGenerateEffect = ({
 //Beautify this
 // Path: components/ui/section.tsx
 //"use client";
+import { ReactNode } from "react";
+
+export const Section = ({ children }: { children: ReactNode }) => {
+  return <section className="py-8">{children}</section>;
+};
