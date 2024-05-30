@@ -55,6 +55,4 @@ export const TextGenerateEffect = ({
 
 //Beautify this
 // Path: components/ui/section.tsx
-"use client";
-import { ReactNode } from "react";
-import { cn } from "@/utils/cn";
+//"use client";
