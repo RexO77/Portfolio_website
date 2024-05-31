@@ -16,6 +16,7 @@ const Hero = () => {
           <div className='flex justify-center'>
             <div className='max-w-[89vw]'>
               <h2>Mastering the bridge between Design and Devolopement</h2>
+              <p>Design and Devolopment are two sides of the same coin. We help you master both.</p>
             </div>
 
           </div>
