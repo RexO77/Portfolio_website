@@ -19,6 +19,7 @@ const Hero = () => {
               <p>Design and Devolopment are two sides of the same coin. We help you master both.</p>
               <button className='bg-blue-500 text-white px-4 py-2 rounded-md mt-4'>Get Started</button>
               <button className='bg-white text-blue-500 px-4 py-2 rounded-md mt-4 ml-4'>Learn More</button>
+              <button className='bg-white text-blue-500 px-4 py-2 rounded-md mt-4 ml-4'>Learn More</button>
             </div>
 
           </div>
