@@ -16,10 +16,7 @@ const Hero = () => {
           <div className='flex justify-center'>
             <div className='max-w-[89vw]'>
               <h2>Mastering the bridge between Design and Devolopement</h2>
-              <p>Design and Devolopment are two sides of the same coin. We help you master both.</p>
-              <button className='bg-blue-500 text-white px-4 py-2 rounded-md mt-4'>Get Started</button>
-              <button className='bg-white text-blue-500 px-4 py-2 rounded-md mt-4 ml-4'>Learn More</button>
-              <button className='bg-white text-blue-500 px-4 py-2 rounded-md mt-4 ml-4'>Learn More</button>
+              <p className='text-lg'>We are a team of talented designers making websites with Bootstrap</p>
             </div>
 
           </div>
