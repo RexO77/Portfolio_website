@@ -17,6 +17,7 @@ const Hero = () => {
             <div className='max-w-[89vw]'>
               <h2>Mastering the bridge between Design and Devolopement</h2>
               <p className='text-lg'>We are a team of talented designers making websites with Bootstrap</p>
+              <p>Just a routine commit</p>
             </div>
 
           </div>
