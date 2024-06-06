@@ -54,4 +54,4 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
     </svg>
   );
 };
-//starting the process this is back on track
+//starting the process this is back on track did not delete anything
