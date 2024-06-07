@@ -54,4 +54,3 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
     </svg>
   );
 };
-//starting the process this is 
