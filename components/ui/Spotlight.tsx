@@ -54,4 +54,4 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
     </svg>
   );
 };
-//quick repo 
+//quick repo consistancy check
