@@ -52,4 +52,4 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//daily commit
+//daily commit just doing timepass
