@@ -52,6 +52,3 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//daily commit just doing timepass
-// Path: components/ui/TextGenerateEffect.tsx 
-//new commit 
