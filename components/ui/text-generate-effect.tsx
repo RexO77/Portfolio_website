@@ -52,3 +52,4 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
+//last commit for the day before actually developing anything
