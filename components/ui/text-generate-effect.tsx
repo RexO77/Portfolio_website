@@ -52,4 +52,3 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//thinking about open sourcing this component dont know how its gonna end up but positive on this one 
