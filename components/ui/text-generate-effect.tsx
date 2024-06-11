@@ -52,4 +52,4 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//last commit for the day before actually developing anything todays commit
+//thinking about open sourcing this component
