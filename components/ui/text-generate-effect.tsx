@@ -52,4 +52,4 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//commit 
+//commit and push
