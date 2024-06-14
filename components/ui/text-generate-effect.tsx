@@ -52,4 +52,3 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
-//commit and push and stay on the same branch
