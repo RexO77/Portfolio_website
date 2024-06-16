@@ -29,4 +29,4 @@ const Hero = () => {
   )
 }
 
-export default Hero //routine commit to add  Hero component
+export default Hero 
