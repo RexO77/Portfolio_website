@@ -28,5 +28,5 @@ const Hero = () => {
     </div>
   )
 }
-//day 22
+//day 22 of being sure
 export default Hero 
