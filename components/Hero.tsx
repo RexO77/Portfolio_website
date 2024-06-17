@@ -28,5 +28,5 @@ const Hero = () => {
     </div>
   )
 }
-//day 21 of being confused how to fix this
+//day 22
 export default Hero 
