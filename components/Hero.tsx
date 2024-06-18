@@ -28,5 +28,4 @@ const Hero = () => {
     </div>
   )
 }
-//day 22 of being sure that I am not a robot
 export default Hero 
