@@ -8,3 +8,5 @@ export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
   return <NextThemesProvider {...props}>{children}</NextThemesProvider>
 }
 //user promt to install next-themes
+// npm install next-themes
+// npm install @types/next-themes
