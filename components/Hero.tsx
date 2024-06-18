@@ -10,7 +10,7 @@ const Hero = () => {
             <Spotlight className='-top-10 -left-full md:-left-32 h-[80vh] w-[50vw]' fill='purple' />
             <Spotlight className='-top-28 -left-80 h-[80vh] w-[50vw]' fill='blue' />
         </div>
-        <div className="h-screen w-full dark:bg-black-100 bg-white  dark:bg-grid-white/[0.03] bg-grid-black/[0.2] relative flex items-center justify-center top-0 left-0">
+        <div className="h-screen w-full dark:bg-black-100 bg-white  dark:bg-grid-white/[0.02] bg-grid-black/[0.2] relative flex items-center justify-center top-0 left-0">
           <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]">
           </div>
 
@@ -18,11 +18,13 @@ const Hero = () => {
             <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
               <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>Mastering the bridge between Design and Devolopement</h2>
               <TextGenerateEffect 
-                className="text-center text-[40px"
-                words ="Designing and developing websites and applications that are both beautiful and functional"
-                />            
+                className="text-center text-[40px] md:text-5xl lg:text-6xl font-bold text-white mt-4"
+                words ="Transforming Ideas into Reality"
+                />  
+              <p className='text-center'>
+                Hi, I&apos;m Nischal Skanda, a UX/UI Designer, Programmer and a Student from Bengaluru, India
+              </p>          
             </div>
-
           </div>
     </div>
     </div>
