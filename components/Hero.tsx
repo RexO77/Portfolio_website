@@ -29,4 +29,4 @@ const Hero = () => {
     </div>
   )
 }//<img src="https://komarev.com/ghpvc/?username=rexo77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-export default Hero //what!
+export default Hero //what! done 
