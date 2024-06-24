@@ -54,4 +54,3 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
     </svg>
   );
 };
-//daily push onto github Now another one last push for today and this repo
