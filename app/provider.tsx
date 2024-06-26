@@ -9,4 +9,3 @@ export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
 }
 //user promt to install next-themes
 // npm install next-themes
-// npm install @types/next-themes
