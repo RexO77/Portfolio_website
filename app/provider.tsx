@@ -7,4 +7,4 @@ import { type ThemeProviderProps } from "next-themes/dist/types"
 export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
   return <NextThemesProvider {...props}>{children}</NextThemesProvider>
 }
-//user promt to install next-themes
+//user promt to install next-themes1
